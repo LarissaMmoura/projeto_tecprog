@@ -1,0 +1,25 @@
+{
+  "name": "projeto_tecprog",
+  "version": "1.0.0",
+  "description": "Projeto faculdade, matéria técnicas de programação.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/LarissaMmoura/projeto_tecprog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LarissaMmoura/projeto_tecprog/issues"
+  },
+  "homepage": "https://github.com/LarissaMmoura/projeto_tecprog#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
